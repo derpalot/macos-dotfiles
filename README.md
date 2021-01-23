@@ -11,7 +11,7 @@
   <dd>OS: macOS</dd>
   <dd>Shell: <a href="https://github.com/ohmyzsh/ohmyzsh">oh-my-zsh</a></d>
   <dd>File Manager: <a href="https://github.com/ranger/ranger">Ranger</a></d>
-  <dd>Music Player: Spotify with <a href="https://githuub.com/hhanhas/spicetify-cli">Spicetify</a> and Dribbblish theme</dd>
+  <dd>Music Player: Spotify with <a href="https://githuub.com/hhanhas/spicetify-cli">Spicetify</a> and Dribbblish theme(Horizon theme)</dd>
   <dd>Editor: <a href="https://github.com/neovim/neovim">Neovim</a></dd>
   <dd>Org Editor: <a  href="https:github.com/hlissner/doom-emacs">Doom Emacs</a></dd>
   <dd>Browser: Brave</dd>
