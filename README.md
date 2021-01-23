@@ -1,7 +1,7 @@
 # macos dotfiles
-<img src="https://github.com/derpalot/macos-dotfiles/blob/master/ScreenShotOne.png" alt="Screenshot One" />
-<img src="https://github.com/derpalot/macos-dotfiles/blob/master/ScreenShotTwo.png" alt="Screenshot Two" />
-<img src="https://github.com/derpalot/macos-dotfiles/blob/master/ScreenShotThree.png" alt="Screenshot Three" />
+<img src="https://github.com/derpalot/macos-dotfiles/blob/main/ScreenShotOne.png" alt="Screenshot One" />
+<img src="https://github.com/derpalot/macos-dotfiles/blob/main/ScreenShotTwo.png" alt="Screenshot Two" />
+<img src="https://github.com/derpalot/macos-dotfiles/blob/main/ScreenShotThree.png" alt="Screenshot Three" />
 <dl>
   <dd>Window Manager: <a href="https://github.com/koekeishiya/yabai">Yabai</a></dd>
   <dd>Status bar: <a href="https://github.com/feddxhageoh/ueberesicht">Uebersicht</a> with <a href="https://github.com//Jean_Tinland/simple-bar">simple-bar</a></dd>
