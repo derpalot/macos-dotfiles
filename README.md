@@ -4,7 +4,7 @@
 <img src="https://github.com/derpalot/macos-dotfiles/blob/main/ScreenShotThree.png" alt="Screenshot Three" />
 <dl>
   <dd>Window Manager: <a href="https://github.com/koekeishiya/yabai">Yabai</a></dd>
-  <dd>Status bar: <a href="https://github.com/feddxhageoh/ueberesicht">Uebersicht</a> with <a href="https://github.com//Jean_Tinland/simple-bar">simple-bar</a></dd>
+  <dd>Status bar: <a href="https://github.com/felixhageloh/ueberesicht">Uebersicht</a> with <a href="https://github.com//Jean_Tinland/simple-bar">simple-bar</a></dd>
   <dd>Terminal: <a href="https://github.com/alacritty/alacritty">Alacritty</a> with <a href="https://github.com/reobin/typewritten">Typewritten</a></dd>
   <dd>Font: <a href="https://www.jetbrains.com/lp/mono/">JetBrains Mono</a></dd>
   <dd>Thing on terminal: <a href="https://github.com/dylanaraps/neofetch">Neofetch</a> with <a href="https://github.com/mubaris/motivate">motivate</a></dd>
