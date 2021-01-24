@@ -17,4 +17,5 @@
   <dd>Browser: Brave</dd>
   <dd>Hotkeys Daemon: <a href="https://github.com/koekeishiya/skhd">skhd</a></dd>
   <dd>Video Player: IINA</dd>
+  <dd>Image Viewer: <a href="https://github.com/DrabWeb/macfeh">macfeh</a><dd>
 </dl>
